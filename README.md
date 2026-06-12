@@ -25,6 +25,4 @@ Some of the tools and libraries used in this repository include:
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- TensorFlow (as I learn it)
-- PyTorch (as I learn it)
 - Jupyter Notebook
